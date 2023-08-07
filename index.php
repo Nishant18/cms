@@ -114,7 +114,7 @@ include('header.php');
 
 <div class="container">
   <div class="row align-self-stretch">
-    <div class="col-md-9 mt-2">
+    <div class="col-md-8 mt-2">
       <div class="card rounded-5">
         <div class="card-header bg-primary text-white text-center">
           <a href="details.php" class="text-white">All Events at Tarnetar Mela</a>
@@ -129,23 +129,12 @@ include('header.php');
       </div>
     </div>
 
-    <div class="col-md-3 mt-2">
-      <div class="card rounded-5">
-        <div class="card-header bg-primary text-white text-center">
-          Invitation Card
-        </div>
-        <div class="card-body">
-          <?php
-          include('invitationcard.php');
-          ?>
-
-        </div>
-
-
+    <div class="col-md-4 mt-2">
+      <div class="card rounded-5 overflow-auto" style="height: 365px;">
+        <?php
+          include('sidebar.php');
+        ?>
       </div>
-
-
-
     </div>
   </div>
 </div>
@@ -177,20 +166,21 @@ include('header.php');
 <div id="map" class="container">
   <div class="sidebar">
     <div class="row">
-      <div class="col-md-9 mt-2">
-        <div class="card rounded-5">
+      <div class="col-md-8 mt-2">
+        <div class="card rounded-5" >
           <div class="card-header bg-primary text-white text-center">
             Location - Tarnetar Taluka - Than District - Surendranagar
           </div>
           <div class="card-body">
+
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3682.281155411369!2d71.20906157443555!3d22.643303630376813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395975b7dc606157%3A0x2bf262cd19cb24b0!2sTarnetar%20Mela%20ground!5e0!3m2!1sen!2sin!4v1691153265907!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>
-      <div class="col-md-3 mt-2">
-        <div class="card rounded-5">
-          <div class="card-header bg-primary text-white text-center">
-            Invitation Card
+      <div class="col-md-4 mt-2">
+        <div class="card rounded-5 overflow-auto"  style="height: 555px;">
+          <div class="card-header sticky-top bg-primary text-white text-center">
+            Tweets
           </div>
           <div class="card-body">
             <?php

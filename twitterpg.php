@@ -1,4 +1,4 @@
-<div class="css-1dbjc4n">
+<!-- <div class="css-1dbjc4n">
     <div class="css-1dbjc4n r-14lw9ot r-1ets6dv r-1q9bdsx r-rs99b7 r-1udh08x" style="max-height: 320px;">
         <div class="css-1dbjc4n r-140t1nj r-qklmqi r-1cbz2o1"><a href="https://twitter.com/CollectorSRN?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3ACollectorSRN%7Ctwcon%5Es2" rel="noopener noreferrer nofollow" target="_blank" role="link" class="css-4rbku5 css-18t94o4 css-1dbjc4n r-1loqt21 r-6koalj r-18u37iz r-1ny4l3l r-xyw6el r-o7ynqc r-6416eg">
                 <div class="css-1dbjc4n r-16y2uox r-1wbh5a2 r-1puc7w4"><a href="https://twitter.com/CollectorSRN?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3ACollectorSRN%7Ctwcon%5Es2" dir="auto" rel="noopener noreferrer nofollow" target="_blank" role="link" class="css-4rbku5 css-18t94o4 css-901oao r-1loqt21 r-1qd0xha r-1blvdjr r-b88u0q r-vrz42v r-bcqeeo r-qvutc0" style="color: rgb(15, 20, 25);"><span class="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0">Tweets from @CollectorSRN</span></a></div><a href="https://twitter.com/intent/follow?screen_name=CollectorSRN&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3ACollectorSRN%7Ctwcon%5Es2" rel="noopener noreferrer nofollow" target="_blank" role="link" class="css-4rbku5 css-18t94o4 css-1dbjc4n r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-10ptun7 r-13hce6t r-15ysp7h r-4wgw6l r-1ny4l3l r-ymttw5 r-o7ynqc r-6416eg r-lrvibr" style="background-color: rgb(15, 20, 25); border-color: rgba(0, 0, 0, 0);">
@@ -24,4 +24,6 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
+
+<a class="twitter-timeline" href="https://twitter.com/CollectorSRN?ref_src=twsrc%5Etfw">Tweets by CollectorSRN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -9,7 +9,7 @@ include('header.php');
 <!--pg1 dynamic data with sidebar-->
 <div class="container" id="pg1-dydata">
     <div class="row">
-        <div class="col-md-9 mt-2">
+        <div class="col-md-8 mt-2">
             <div class="accordion" id="accordionExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
@@ -62,9 +62,13 @@ include('header.php');
             </div>
 
         </div>
-        <?php
-        include('sidebar.php');
-        ?>
+        <div class="col-md-4 mt-2">
+            <div class="card rounded-5 overflow-auto" id="sidebar" style="height: auto;">
+                <?php
+                include('sidebar.php');
+                ?>
+            </div>
+        </div>
     </div>
 </div>
 

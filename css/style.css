@@ -1,0 +1,65 @@
+@media only screen and (min-width: 768px) {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+        background-position: center;
+    }
+}
+
+/* .carousel-item {
+    height: 15rem;
+
+} */
+
+#carousel-img{
+    height: 15rem;
+}
+
+.container {
+    border: 5px;
+}
+
+/* .row{
+    border: 3px solid red;
+   }
+   .col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12 {
+    border: 3px solid green;
+   } */
+.sidebar {
+    position: sticky;
+    top: 10px
+}
+
+.navbar {
+    position: relative;
+}
+
+
+
+.pb-video-container {
+    padding-top: 20px;
+    background: #bdc3c7;
+    font-family: Lato;
+}
+
+.pb-video {
+    border: 1px solid #e6e6e6;
+    padding: 5px;
+}
+
+.pb-video:hover {
+    background: #2c3e50;
+}
+
+.pb-video-frame {
+    transition: width 2s, height 2s;
+}
+
+.pb-video-frame:hover {
+    height: 300px;
+}
+
+.pb-row {
+    margin-bottom: 10px;
+}
+
+

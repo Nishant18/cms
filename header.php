@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/fontawesome.css">
+  <!-- <link rel="stylesheet" href="css/mdb.css"> -->
 
   <!-- <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/> -->
   <!-- MDB -->
@@ -44,31 +45,15 @@
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Gallery
+                  Events
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" href="photo_gallery.php">Photos Gallery</a></li>
+                  <li><a class="dropdown-item" href="ruralolympic.php">Rural Olympics</a></li>
                   <li><a class="dropdown-item" href="video_gallery.php">Video Gallery</a></li>
                   <li><a class="dropdown-item" href="#">Something else here</a></li>
                 </ul>
               </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  How to Reach
-                </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" href="map.php">Map</a></li>
-                  <li><a class="dropdown-item" href="bus.php">By Bus</a></li>
-                  <li><a class="dropdown-item" href="rail.php">By Railway</a></li>
-                  <li><a class="dropdown-item" href="air.php">By Air</a></li>
-                </ul>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Features</a>
-              </li>
+              
               <li class="nav-item">
                 <a class="nav-link" href="#">Contact Us</a>
               </li>

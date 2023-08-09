@@ -1,3 +1,4 @@
+<div class="container overflow-auto" style="height:auto" >
 <!--header-->
 <?php
 include('header.php');
@@ -132,7 +133,7 @@ include('header.php');
     <div class="col-md-4 mt-2">
       <div class="card rounded-5 overflow-auto" style="height: 365px;">
         <?php
-          include('sidebar.php');
+        include('sidebar.php');
         ?>
       </div>
     </div>
@@ -167,7 +168,7 @@ include('header.php');
   <div class="sidebar">
     <div class="row">
       <div class="col-md-8 mt-2">
-        <div class="card rounded-5" >
+        <div class="card rounded-5">
           <div class="card-header bg-primary text-white text-center">
             Location - Tarnetar Taluka - Than District - Surendranagar
           </div>
@@ -178,7 +179,7 @@ include('header.php');
         </div>
       </div>
       <div class="col-md-4 mt-2">
-        <div class="card rounded-5 overflow-auto"  style="height: 555px;">
+        <div class="card rounded-5 overflow-auto" style="height: 555px;">
           <div class="card-header sticky-top bg-primary text-white text-center">
             Tweets
           </div>
@@ -200,9 +201,22 @@ include('header.php');
     </div>
   </div>
 </div>
+<!-- <button class="btn btn-primary btn-floating btn-lg" onclick="topFunction()" id="myBtn" title="Go to top">
+<i class="fas fa-arrow-up"></i>
+</button> -->
+<?php
+  include('scrolltop.php');
+?>
 
+
+
+
+<!-- <button type="button" class="btn btn-primary btn-floating btn-lg" id="btn-back-to-top">
+  <i class="fas fa-arrow-up"></i>
+</button> -->
 
 <!--footer-->
 <?php
 include('footer.php');
 ?>
+</div>
